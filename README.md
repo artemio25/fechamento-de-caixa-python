@@ -24,3 +24,11 @@ Ele substitui a calculadora e o papel, cruzando o valor que o sistema de vendas 
 ## 🛠️ Tecnologias Utilizadas
 * Python
 * Tratamento de exceções (`try/except`) para evitar erros de digitação (como digitar letras no lugar de números).
+
+## 🚀 Próximos passos (Ideias de Evolução)
+Como este projeto é a primeira versão via terminal, as próximas atualizações planejadas para evoluir o sistema incluem:
+
+* **Interface Gráfica (GUI):** Sair da tela de texto e criar uma janela visual interativa com campos de digitação e botões (utilizando Tkinter).
+* **Banco de Dados Local:** Criar um salvamento automático (utilizando SQLite) para guardar o histórico de fechamentos diários e permitir consultas de dias anteriores.
+* **Geração de Executável (.exe):** Empacotar o sistema para que o usuário final possa rodar o programa com apenas dois cliques na Área de Trabalho, sem precisar instalar o Python.
+* **Mais Formas de Pagamento:** Adicionar suporte para múltiplos cartões e vouchers (Alelo, TicketLog, Premmia, etc.).
